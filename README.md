@@ -2,6 +2,8 @@
 
 This demo is based on `Cocos2d-JS v3.10` && `Protocol Buffer v2.5.0`.
 
+A related book is here on [GitBook](https://www.gitbook.com/book/supersuraccoon/gitbook_cocos_protobuf).
+
 ### Folder Structure
 
 #### Demo (cpp/java/python/js)
